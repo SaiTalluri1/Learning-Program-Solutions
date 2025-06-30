@@ -1060,53 +1060,60 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jamak\\.nuget\\packages\\": {}
+    "C:\\Users\\Sai talluri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
       "projectName": "CalcLibrary.Tests",
-      "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
-      "packagesPath": "C:\\Users\\jamak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CalcLibrary.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+      "packagesPath": "C:\\Users\\Sai talluri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CalcLibrary.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jamak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sai talluri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\AccountsManagerLib\\AccountsManagerLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\AccountsManagerLib\\AccountsManagerLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\AccountsManagerLib\\AccountsManagerLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\AccountsManagerLib\\AccountsManagerLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CalcLibrary\\CalcLibrary.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CalcLibrary\\CalcLibrary.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CalcLibrary\\CalcLibrary.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CalcLibrary\\CalcLibrary.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CollectionsLib\\CollectionsLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\CollectionsLib\\CollectionsLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CollectionsLib\\CollectionsLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\CollectionsLib\\CollectionsLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\ConverterLib\\ConverterLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\ConverterLib\\ConverterLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\ConverterLib\\ConverterLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\ConverterLib\\ConverterLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\FourSeasonsLib\\FourSeasonsLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\FourSeasonsLib\\FourSeasonsLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\FourSeasonsLib\\FourSeasonsLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\FourSeasonsLib\\FourSeasonsLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\LeapYearCalculatorLib\\LeapYearCalculatorLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\LeapYearCalculatorLib\\LeapYearCalculatorLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\LeapYearCalculatorLib\\LeapYearCalculatorLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\LeapYearCalculatorLib\\LeapYearCalculatorLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\UserManagerLib\\UserManagerLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\UserManagerLib\\UserManagerLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\UserManagerLib\\UserManagerLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\UserManagerLib\\UserManagerLib.csproj"
             },
-            "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\UtilLib\\UtilLib.csproj": {
-              "projectPath": "C:\\Users\\jamak\\Desktop\\Week-2\\NUnit and Moq\\NUnitHandsOnSolutions\\NUnitLab\\UtilLib\\UtilLib.csproj"
+            "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\UtilLib\\UtilLib.csproj": {
+              "projectPath": "C:\\Users\\Sai talluri\\OneDrive\\Desktop\\Week2_Solutions\\Nunit and Moq\\NUnit-Handson\\NUnitLab\\UtilLib\\UtilLib.csproj"
             }
           }
         }
@@ -1168,7 +1175,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
