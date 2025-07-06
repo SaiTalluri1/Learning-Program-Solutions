@@ -1,0 +1,14 @@
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\bin\Debug\net8.0\01_EcommerceSearch.exe
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\bin\Debug\net8.0\01_EcommerceSearch.deps.json
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\bin\Debug\net8.0\01_EcommerceSearch.runtimeconfig.json
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\bin\Debug\net8.0\01_EcommerceSearch.dll
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\bin\Debug\net8.0\01_EcommerceSearch.pdb
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.AssemblyInfoInputs.cache
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.AssemblyInfo.cs
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.dll
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\refint\01_EcommerceSearch.dll
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.pdb
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\01_EcommerceSearch.genruntimeconfig.cache
+C:\Projects\Week1_Algorithms_DataStructures\01_EcommerceSearch\obj\Debug\net8.0\ref\01_EcommerceSearch.dll

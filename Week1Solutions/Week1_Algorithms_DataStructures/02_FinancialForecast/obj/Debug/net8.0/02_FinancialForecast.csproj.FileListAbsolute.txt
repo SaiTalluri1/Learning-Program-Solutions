@@ -1,0 +1,14 @@
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\bin\Debug\net8.0\02_FinancialForecast.exe
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\bin\Debug\net8.0\02_FinancialForecast.deps.json
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\bin\Debug\net8.0\02_FinancialForecast.runtimeconfig.json
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\bin\Debug\net8.0\02_FinancialForecast.dll
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\bin\Debug\net8.0\02_FinancialForecast.pdb
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.AssemblyInfoInputs.cache
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.AssemblyInfo.cs
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.csproj.CoreCompileInputs.cache
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.dll
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\refint\02_FinancialForecast.dll
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.pdb
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\02_FinancialForecast.genruntimeconfig.cache
+C:\Projects\Week1_Algorithms_DataStructures\02_FinancialForecast\obj\Debug\net8.0\ref\02_FinancialForecast.dll
