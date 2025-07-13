@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|c:\\users\\sai talluri\\downloads\\learning-program-solutions\\week4solutions\\handson5\\webaplication5\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|c:\\users\\sai talluri\\downloads\\learning-program-solutions\\week4solutions\\handson5\\webaplication5\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|c:\\users\\sai talluri\\downloads\\learning-program-solutions\\week4solutions\\handson5\\webaplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|c:\\users\\sai talluri\\downloads\\learning-program-solutions\\week4solutions\\handson5\\webaplication5\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDED3628-4C9E-41E6-A9D4-A8039E9EF43E}|WebApplication3.csproj|solutionrelative:webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T18:38:20.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:33:40.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T16:27:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week4Solutions\\HandsOn5\\WebAplication5\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:30:50.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
