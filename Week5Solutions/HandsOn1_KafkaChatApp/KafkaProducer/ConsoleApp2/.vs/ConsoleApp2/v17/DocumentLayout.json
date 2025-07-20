@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week5Solutions\\HandsOn1_KafkaChatApp\\KafkaProducer\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD2602D-36FD-48A3-AA7B-41506395F1E3}|ConsoleApp2.csproj|c:\\users\\sai talluri\\downloads\\learning-program-solutions\\week5solutions\\handson1_kafkachatapp\\kafkaproducer\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD2602D-36FD-48A3-AA7B-41506395F1E3}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week5Solutions\\HandsOn1_KafkaChatApp\\KafkaProducer\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week5Solutions\\HandsOn1_KafkaChatApp\\KafkaProducer\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:31:02.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

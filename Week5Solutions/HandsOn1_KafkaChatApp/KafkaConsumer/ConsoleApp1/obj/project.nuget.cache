@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlgkEp3GMIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sai talluri\\Downloads\\Learning-Program-Solutions\\Week5Solutions\\HandsOn1_KafkaChatApp\\KafkaConsumer\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sai talluri\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
+    "C:\\Users\\Sai talluri\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
