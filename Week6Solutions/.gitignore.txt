@@ -1,0 +1,18 @@
+# Ignore VS folders and temp files
+*.suo
+.vs/
+*.user
+*.DS_Store
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore build output
+build/
+dist/
+
+# Ignore screenshots (optional)
+*.png
+*.jpg
